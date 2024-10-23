@@ -10,8 +10,8 @@
 - Large-scale Data Processing
 
 👨‍💻 Some of my key projects:
-- [NLP-Project: Spam Detection in Emails Using RNN with Attention](https://github.com/sehab6111251/NLP-Project)
-- [Clustering with Mixture of Gaussians, Mean Shift](https://github.com/sehab6111251/Clustering)
+- [NLP-Project: Spam Detection in Emails Using RNN with Attention](https://github.com/sehab1611251/NLP-Project)
+- [Clustering with Mixture of Gaussians, Mean Shift](https://github.com/sehab1611251/Clustering)
 
 ⚡ Fun fact: I'm passionate about making AI systems solve real-world problems.
 
