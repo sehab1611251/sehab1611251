@@ -7,6 +7,7 @@
 🌱 I’m currently learning and exploring:
 - Advanced Computer Vision Techniques
 - Neural Networks and Deep Learning
+- Natural Language Processing
 - Large-scale Data Processing
 
 👨‍💻 Some of my key projects:
