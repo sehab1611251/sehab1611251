@@ -11,7 +11,8 @@
 
 👨‍💻 Some of my key projects:
 - [NLP-Project: Spam Detection in Emails Using RNN with Attention](https://github.com/sehab1611251/NLP-Project)
-- [Clustering with Mixture of Gaussians, Mean Shift](https://github.com/sehab1611251/Clustering)
+- [Clustering: Unsupervised Machine Learning project](https://github.com/sehab1611251/Clustering-Unsupervised-ML-Project)
+- [Computer Vision Project: Road Defect Detection](https://github.com/sehab1611251/Road-Defect-Detection-Using-Image-Annotation)
 
 ⚡ Fun fact: I'm passionate about making AI systems solve real-world problems.
 
