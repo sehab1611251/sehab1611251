@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Pranta]
+# Hi there! 👋 I'm Pranta.
 
 **Master's Student in Artificial Intelligence and Data Engineering**
 
